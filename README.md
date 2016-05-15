@@ -1,4 +1,19 @@
-# [![Web Starter Kit](https://cloud.githubusercontent.com/assets/110953/11445049/f05512ba-9520-11e5-8fdb-8c8eb5f690d0.jpg)](https://github.com/google/web-starter-kit/releases/latest)
+# Hex to Base64 on javascript
+## Быстрый старт
+
+[Загрузите](https://github.com/gameisch/hextobase64/blob/master/app/scripts/htob64.min.js) или скопируйте этот репозиторий в свое приложение.
+Копипаст в <html> <script src="https://github.com/gameisch/hextobase64/blob/master/app/scripts/htob64.min.js"></script>
+
+https://github.com/gameisch/hextobase64/blob/master/app/scripts/htob64.min.js
+не минимизированная версия https://github.com/gameisch/hextobase64/blob/master/app/scripts/HToB64.js
+
+Либа позволяет кодировать и декодировать различные системы счисления в Base64 и обратно.
+Демонстрацию можно посмотреть здесь:
+[Загрузите](http://htob64.gameisch.lclients.ru/app/index.html)
+
+фронтэнд создан с помощью web starter kit, далее документация о нем.
+
+### [![Web Starter Kit](https://cloud.githubusercontent.com/assets/110953/11445049/f05512ba-9520-11e5-8fdb-8c8eb5f690d0.jpg)](https://github.com/google/web-starter-kit/releases/latest)
 
 ## Overview
 
