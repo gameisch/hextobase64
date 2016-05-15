@@ -9,7 +9,7 @@
 
 Либа позволяет кодировать и декодировать различные системы счисления в Base64 и обратно.
 Демонстрацию можно посмотреть здесь:
-[Загрузите](http://htob64.gameisch.lclients.ru/app/index.html)
+[htob64 demo](http://htob64.gameisch.lclients.ru/app/index.html)
 
 фронтэнд создан с помощью web starter kit, далее документация о нем.
 
