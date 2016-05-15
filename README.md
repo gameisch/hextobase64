@@ -4,8 +4,8 @@
 [Загрузите](https://github.com/gameisch/hextobase64/blob/master/app/scripts/htob64.min.js) или скопируйте этот репозиторий в свое приложение.
 Копипаст в <html> <script src="https://github.com/gameisch/hextobase64/blob/master/app/scripts/htob64.min.js"></script>
 
-https://github.com/gameisch/hextobase64/blob/master/app/scripts/htob64.min.js
-не минимизированная версия https://github.com/gameisch/hextobase64/blob/master/app/scripts/HToB64.js
+- https://github.com/gameisch/hextobase64/blob/master/app/scripts/htob64.min.js
+- не минимизированная версия https://github.com/gameisch/hextobase64/blob/master/app/scripts/HToB64.js
 
 Либа позволяет кодировать и декодировать различные системы счисления в Base64 и обратно.
 Демонстрацию можно посмотреть здесь:
